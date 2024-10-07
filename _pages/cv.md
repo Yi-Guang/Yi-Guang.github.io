@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2024: Lecture
   * Xidian University
   
 Skills
