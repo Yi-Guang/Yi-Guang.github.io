@@ -18,17 +18,12 @@ Education
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Xidian University
   
 Skills
 ======
 * Skill 1
-* Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
