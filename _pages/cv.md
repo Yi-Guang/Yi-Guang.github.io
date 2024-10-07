@@ -21,16 +21,6 @@ Work experience
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -59,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Reviewing Journals
 ======
-* Currently signed in to 43 different slack teams
+* Applied Intelligent; IEEE Communications Letters; Knowledge-Based Systems; IEEE Transactions on Systems, Man and Cybernetics: Systems; IEEE Transactions on Cybernetics; International Journal of Machine Learning and Cybernetics; Knowledge and Information Systems; Social Network Analysis and Mining; Computing; Applied Network Science; Scientific Reports; Complex & Intelligent Systems; Engineering Applications of Artificial Intelligence; Reliability Engineering & System Safety; KSII Transactions on Internet and Information Systems; Telecommunication Systems; PLOS Complex Systems; PLOS One
