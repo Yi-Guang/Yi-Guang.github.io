@@ -45,7 +45,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% Advanced Mathematics %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
